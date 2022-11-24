@@ -1,2 +1,1 @@
-# lazy-loading
-Created with CodeSandbox
+# lazy-loading with infinite scroll
