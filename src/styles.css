@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+}
+
+.main-container {
+  height: 400px;
+  overflow: auto;
+  width: 300px;
+}
+
+.card {
+  margin: 2rem 0;
+}
+
+p {
+  margin: 0;
+  padding: 0.4rem 0;
+}
+h4 {
+  padding: 0;
+  margin: 0;
+}
